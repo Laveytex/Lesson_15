@@ -11,7 +11,6 @@ int main()
     std::cin >> LastNumbmber;
     std::cout << "Enter 0 or 1 corresponding to odd or even:\n";
     std::cin >> NumberType;
-    
     /*
     for (int i = 0; i < number; i++)
     {
